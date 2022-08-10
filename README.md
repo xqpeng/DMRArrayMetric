@@ -105,7 +105,7 @@ for(i in 1:7){
    DMRn_file[i,1] = eval(parse(text=DMRn_file[i,1]))
 
  }
-rank_graph(DMRn_file,threshold=seq(0,0.9,0.1),Title='GroupA-GroupB'
+rank_graph(DMRn_file,threshold=seq(0,0.9,0.1),Title='GroupA-GroupB')
 
 ```
 And repeat
