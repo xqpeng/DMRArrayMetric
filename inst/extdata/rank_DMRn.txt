@@ -1,0 +1,7 @@
+paste0(system.file('extdata','DMRn',package='DMRArrayMetric'),'/','bumphunter.DMRn.txt')	bumphunter
+paste0(system.file('extdata','DMRn',package='DMRArrayMetric'),'/','Lasso.DMRn.txt')	Lasso
+paste0(system.file('extdata','DMRn',package='DMRArrayMetric'),'/','DMRcate.DMRn.txt')	DMRcate
+paste0(system.file('extdata','DMRn',package='DMRArrayMetric'),'/','combp.DMRn.txt')	combp
+paste0(system.file('extdata','DMRn',package='DMRArrayMetric'),'/','ipDMR.DMRn.txt')	ipDMR
+paste0(system.file('extdata','DMRn',package='DMRArrayMetric'),'/','seqlm.DMRn.txt')	seqlm
+paste0(system.file('extdata','DMRn',package='DMRArrayMetric'),'/','mCSEA.DMRn.txt')	mCSEA
